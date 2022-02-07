@@ -1,5 +1,5 @@
 package Basics;
-//superwork done
+//super work done
 public class DataTypes {
 
 	public static void main(String[] args) {
